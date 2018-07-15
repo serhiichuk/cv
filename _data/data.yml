@@ -4,132 +4,132 @@
 
 sidebar:
     # Site Settings
-    title: 'Serhiichuk | Resume'
-    url: 'http://webjeda.com''
-    about: 'true # set to False or comment line if you want to remove the "How to use?" in the sidebar'
+    title: "Serhiichuk | Resume"
+    url: "http://webjeda.com"
+    about: true # set to False or comment line if you want to remove the "How to use?" in the sidebar
     
     # Profile information
-    name: 'Taras Serhiichuk'
-    tagline: 'Front End Developer'
-    pic: 'profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below'
+    name: "Taras Serhiichuk"
+    tagline: "Front End Developer"
+    pic: "profile.png"  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
     
     # Sidebar links
-    email: 'tarasserhiyschuk@gmail.com'
-    phone: '097 387 53 51'
-    website: 'serhiichuk.github.io #do not add http://'
-    linkedin: 'serhiichukdev'
-    github: 'serhiichuk'
-    twitter: '@Frankie_Widie'
+    email: "tarasserhiyschuk@gmail.com"
+    phone: "097 387 53 51"
+    website: "serhiichuk.github.io #do not add http://"
+    linkedin: "serhiichukdev"
+    github: "serhiichuk"
+    twitter: "@Frankie_Widie"
 
     languages:
         - language:
-          idiom: 'Ukrainian'
-          level: 'Fluent'
+          idiom: "Ukrainian"
+          level: "Fluent"
         - language:
-          idiom: 'English'
-          level: 'Intermediate'
+          idiom: "English"
+          level: "Intermediate"
 
     interests:
         - interest:
-          item: 'Football'
+          item: "Football"
           link:
         - interest:
-          item: 'Bicycles'
+          item: "Bicycles"
           link:
         - interest:
-          item: 'Motorcycles'
+          item: "Motorcycles"
           link:
         - interest:
-          item: 'Festivals'
+          item: "Festivals"
           link:
 
 
 career-profile:
-    title: 'Career Profile'
-    text: 'Development of plug-ins and tools for optimizing development, also front end development.'
+    title: "Career Profile"
+    text: "Development of plug-ins and tools for optimizing development, also front end development."
 
 
 studies:
     - education:
-      degree: 'Bachelor's degree'
-      university: 'National Technical University of Ukraine “Kyiv Polytechnic Institute"'
-      time: '2012 - 2017'
-      #details: '"Faculty of Electric Power Engineering and Automatics."'
+      degree: "Bachelor's degree"
+      university: "National Technical University of Ukraine “Kyiv Polytechnic Institute“"
+      time: "2012 - 2017"
+      #details: "Faculty of Electric Power Engineering and Automatics."
 
 
 
 experiences:
-    title: 'Experiences'
+    title: "Experiences"
     
     
     experiences:
-        - role: 'Junior/Middle Front-end Developer'
-          time: '2017 - Present'
-          company: '11th floor, Kyiv'
-          details: 'Developing solutions for all mobile platforms as well as for most of the existing CLM systems.'
+        - role: "Junior/Middle Front-end Developer"
+          time: "2017 - Present"
+          company: "11th floor, Kyiv"
+          details: "Developing solutions for all mobile platforms as well as for most of the existing CLM systems."
 
 
 projects:
-    title: 'Projects'
-    intro: 'Below is a list of my modest projects'
+    title: "Projects"
+    intro: "Below is a list of my modest projects"
     
     projects:
       - project:
-        title: 'fs-ui-explorer'
-        link: 'https://github.com/serhiichuk/fs-ui-explorer'
-        tagline: 'A simple package for exploring directories in terminal around your project.'
+        title: "fs-ui-explorer"
+        link: "https://github.com/serhiichuk/fs-ui-explorer"
+        tagline: "A simple package for exploring directories in terminal around your project."
       - project:
-        title: 'vue-cli-plugin-clm-helper'
-        link: 'https://github.com/serhiichuk/vue-cli-plugin-clm-helper'
-        tagline: 'A vue-cli 3.x plugin to help developing with MI Touch, Pharma Touch and Veeva CRM systems.'
+        title: "vue-cli-plugin-clm-helper"
+        link: "https://github.com/serhiichuk/vue-cli-plugin-clm-helper"
+        tagline: "A vue-cli 3.x plugin to help developing with MI Touch, Pharma Touch and Veeva CRM systems."
       - project:
-        title: 'vue-clm-helper-mi-touch'
-        link: 'https://github.com/serhiichuk/vue-clm-helper-mi-touch'
-        tagline: 'A Vue plugin for Vue CLI plugin CLM Helper'
+        title: "vue-clm-helper-mi-touch"
+        link: "https://github.com/serhiichuk/vue-clm-helper-mi-touch"
+        tagline: "A Vue plugin for Vue CLI plugin CLM Helper"
       - project:
-        title: 'vue-json-to-html'
-        link: 'https://github.com/serhiichuk/vue-json-to-html'
-        tagline: 'Vue component for generating equal HTML from Json/JS-Object.'
+        title: "vue-json-to-html"
+        link: "https://github.com/serhiichuk/vue-json-to-html"
+        tagline: "Vue component for generating equal HTML from Json/JS-Object."
 
 
 #publications:
-#    title: 'Publications'
-#    intro: '"You can list your publications in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu' lectus."
+#    title: "Publications"
+#    intro: ""You can list your publications in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu" lectus."
 #
 #    publications:
 #      - paper:
-#        title: 'The Art of Computer Programming'
-#        authors: 'Donald E. Knuth'
-#        conference: 'Addison-Wesley, 1968'
+#        title: "The Art of Computer Programming"
+#        authors: "Donald E. Knuth"
+#        conference: "Addison-Wesley, 1968"
 #      - paper:
-#        title: '"Genetic Programming III: 'Darwinian Invention &amp; Problem Solving"'
-#        authors: 'Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.'
-#        conference: '"Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"'
+#        title: ""Genetic Programming III: "Darwinian Invention &amp; Problem Solving""
+#        authors: "Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A."
+#        conference: ""Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)""
 #      - paper:
-#        title: 'A syntax directed compiler for Algol 60'
-#        authors: 'Edgar T. Irons'
-#        conference: '"Comm. ACM 4 (1961), 51–55"'
+#        title: "A syntax directed compiler for Algol 60"
+#        authors: "Edgar T. Irons"
+#        conference: ""Comm. ACM 4 (1961), 51–55""
 
 
 skills:
-    title: 'Skills &amp; Proficiency'
+    title: "Skills &amp; Proficiency"
     skills:
         - skill:
-          name: 'Javascript & jQuery'
-          level: '98%'
+          name: "Javascript & jQuery"
+          level: "98%"
         - skill:
-          name: 'Vue'
-          level: '85%'
+          name: "Vue"
+          level: "85%"
         - skill:
-          name: 'HTML5 & CSS'
-          level: '95%'
+          name: "HTML5 & CSS"
+          level: "95%"
         - skill:
-          name: 'Node'
-          level: '30%'
+          name: "Node"
+          level: "30%"
         - skill:
-          name: 'Photoshop'
-          level: '60%'
+          name: "Photoshop"
+          level: "60%"
 
 
-footer:
-    text: 'Designed with <i class="fa fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a> for developers'
+#footer:
+#    text: "Designed with <i class="fa fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a> for developers"

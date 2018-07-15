@@ -54,7 +54,7 @@ studies:
       degree: "Bachelor's degree"
       university: "National Technical University of Ukraine “Kyiv Polytechnic Institute“"
       time: "2012 - 2017"
-      #details: "Faculty of Electric Power Engineering and Automatics."
+      details: "Faculty of Electric Power Engineering and Automatics."
 
 
 
@@ -85,11 +85,11 @@ projects:
       - project:
         title: "vue-clm-helper-mi-touch"
         link: "https://github.com/serhiichuk/vue-clm-helper-mi-touch"
-        tagline: "A Vue plugin for Vue CLI plugin CLM Helper"
+        tagline: "A vue plugin for Vue CLI plugin CLM Helper"
       - project:
         title: "vue-json-to-html"
         link: "https://github.com/serhiichuk/vue-json-to-html"
-        tagline: "Vue component for generating equal HTML from Json/JS-Object."
+        tagline: "A vue component for generating equal HTML from Json/JS-Object."
 
 
 #publications:

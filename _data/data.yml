@@ -19,7 +19,7 @@ sidebar:
     website: serhiichuk.github.io #do not add http://
     linkedin: serhiichukdev
     github: serhiichuk
-    twitter: '@Frankie_Widie'
+    twitter: @Frankie_Widie
 
     languages:
         - language:
@@ -54,7 +54,7 @@ studies:
       degree: Bachelor's degree
       university: National Technical University of Ukraine “Kyiv Polytechnic Institute"
       time: 2012 - 2017
-      details: "Faculty of Electric Power Engineering and Automatics."
+      #details: "Faculty of Electric Power Engineering and Automatics."
 
 
 
@@ -65,20 +65,19 @@ experiences:
     experiences:
         - role: Junior/Middle Front-end Developer
           time: 2017 - Present
-          company: Startup Hubs, San Francisco
-          details: Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+          company: 11th floor, Kyiv
+          details: Developing solutions for all mobile platforms as well as for most of the existing CLM systems.
 
 
 projects:
     title: Projects
-    intro: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
-      sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+    intro: Below is a list of my modest projects
     
     projects:
       - project:
-        title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        title: Node.js terminal file explorer
+        link: https://github.com/serhiichuk/fs-ui-explorer
+        tagline: A simple package for exploring directories in terminal around your project.
       - project:
         title: DevStudio
         link: "#"

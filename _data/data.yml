@@ -6,7 +6,7 @@ sidebar:
     # Site Settings
     title: "Serhiichuk | Resume"
     url: "http://webjeda.com"
-    about: false # set to False or comment line if you want to remove the "How to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "How to use?" in the sidebar
     
     # Profile information
     name: "Taras Serhiichuk"

@@ -19,8 +19,8 @@
       <file leaf-file-name="data.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_data/data.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="413">
-              <caret line="78" column="21" lean-forward="true" selection-start-line="78" selection-start-column="21" selection-end-line="78" selection-end-column="21" />
+            <state relative-caret-position="515">
+              <caret line="124" selection-start-line="124" selection-end-line="124" />
             </state>
           </provider>
         </entry>
@@ -147,7 +147,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="L:/vue-json-to-html" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -174,16 +174,15 @@
       <option name="presentableId" value="Default" />
       <updated>1531496984541</updated>
       <workItem from="1531496985703" duration="1559000" />
-      <workItem from="1531660666110" duration="1967000" />
+      <workItem from="1531660666110" duration="2921000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3526000" />
+    <option name="totallyTimeSpent" value="4480000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17375" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -299,8 +298,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_data/data.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="413">
-          <caret line="78" column="21" lean-forward="true" selection-start-line="78" selection-start-column="21" selection-end-line="78" selection-end-column="21" />
+        <state relative-caret-position="515">
+          <caret line="124" selection-start-line="124" selection-end-line="124" />
         </state>
       </provider>
     </entry>

@@ -14,12 +14,12 @@ sidebar:
     pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
     
     # Sidebar links
-    email: tarasserhiyschuk@gmail.com
-    phone: 097 387 53 51
-    website: serhiichuk.github.io #do not add http://
-    linkedin: serhiichukdev
-    github: serhiichuk
-    twitter: @Frankie_Widie
+    email: 'tarasserhiyschuk@gmail.com
+    phone: '097 387 53 51
+    website: 'serhiichuk.github.io #do not add http://
+    linkedin: 'serhiichukdev
+    github: 'serhiichuk
+    twitter: '@Frankie_Widie
 
     languages:
         - language:
@@ -75,28 +75,21 @@ projects:
     
     projects:
       - project:
-        title: Node.js terminal file explorer
+        title: fs-ui-explorer
         link: https://github.com/serhiichuk/fs-ui-explorer
         tagline: A simple package for exploring directories in terminal around your project.
       - project:
-        title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        title: vue-cli-plugin-clm-helper
+        link: https://github.com/serhiichuk/vue-cli-plugin-clm-helper
+        tagline: A vue-cli 3.x plugin to help developing with MI Touch, Pharma Touch and Veeva CRM systems.
       - project:
-        title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        title: vue-clm-helper-mi-touch
+        link: https://github.com/serhiichuk/vue-clm-helper-mi-touch
+        tagline: A Vue plugin for Vue CLI plugin CLM Helper
       - project:
-        title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-      - project:
-        title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-
-
+        title: vue-json-to-html
+        link: https://github.com/serhiichuk/vue-json-to-html
+        tagline: Vue component for generating equal HTML from Json/JS-Object.
 
 
 #publications:

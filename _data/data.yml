@@ -16,7 +16,7 @@ sidebar:
     # Sidebar links
     email: "tarasserhiyschuk@gmail.com"
     phone: "097 387 53 51"
-    website: "serhiichuk.github.io" #do not add http://
+    skype: "frankie_widie"
     linkedin: "serhiichukdev"
     github: "serhiichuk"
     twitter: "@Frankie_Widie"
@@ -27,7 +27,7 @@ sidebar:
           level: "Fluent"
         - language:
           idiom: "English"
-          level: "Intermediate"
+          level: "Pre-Intermediate"
 
     interests:
         - interest:
@@ -64,8 +64,8 @@ experiences:
     
     experiences:
         - role: "Junior/Middle Front-end Developer"
-          time: "2017 - Present"
-          company: "11th floor, Kyiv"
+          time: "1.02.2017 - 30.08.2018"
+          company: "Inchkkiev, Kyiv"
           details: "Developing solutions for all mobile platforms as well as for most of the existing CLM systems."
 
 
@@ -115,21 +115,17 @@ skills:
     title: "Skills &amp; Proficiency"
     skills:
         - skill:
-          name: "Javascript & jQuery"
-          level: "98%"
+          name: "JavaScript"
+          level: "65%"
         - skill:
           name: "Vue"
-          level: "85%"
+          level: "70%"
         - skill:
           name: "HTML5 & CSS"
           level: "95%"
         - skill:
           name: "Node"
           level: "30%"
-        - skill:
-          name: "Photoshop"
-          level: "60%"
-
 
 footer:
     text: Designed with <i class="fa fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a> for developers

@@ -60,21 +60,17 @@ studies:
 
 experiences:
     title: "Experiences"
-    
-    
+
     experiences:
         - role: "Junior/Middle Front-end Developer"
           time: "1.02.2017 - 30.08.2018"
           company: "Inchkkiev, Kyiv"
           details: "Developing solutions for all mobile platforms as well as for most of the existing CLM systems."
           
-    experiences:
         - role: "Middle JavaScript Developer"
           time: "15.09.2018 - present"
           company: "Aurora Technologies LLC, Kyiv"
           details: "Developing and maintenance product services (node, vue)."
-
-
 
 projects:
     title: "Projects"

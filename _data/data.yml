@@ -5,12 +5,12 @@
 sidebar:
     # Site Settings
     title: "Serhiichuk | Resume"
-    url: "http://webjeda.com"
+    url: "https://serhiichuk.github.io"
     about: False # set to False or comment line if you want to remove the "How to use?" in the sidebar
     
     # Profile information
     name: "Taras Serhiichuk"
-    tagline: "Front End Developer"
+    tagline: "JavaScript Developer"
     pic: "profile.png"  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
     
     # Sidebar links
@@ -19,6 +19,7 @@ sidebar:
     skype: "frankie_widie"
     linkedin: "serhiichukdev"
     github: "serhiichuk"
+    telegram: "@t_serhiichuk"
     twitter: "@Frankie_Widie"
 
     languages:
@@ -30,6 +31,9 @@ sidebar:
           level: "Pre-Intermediate"
 
     interests:
+        - interest:
+          item: "Coding"
+          link:
         - interest:
           item: "Football"
           link:
@@ -46,7 +50,7 @@ sidebar:
 
 career-profile:
     title: "Career Profile"
-    text: "Development of plug-ins and tools for optimizing development, also front end development."
+    text: "Development of high-quality solutions for a long-term product."
 
 
 studies:
@@ -70,7 +74,7 @@ experiences:
         - role: "Middle JavaScript Developer"
           time: "15.09.2018 - present"
           company: "Aurora Technologies LLC, Kyiv"
-          details: "Developing and maintenance product services (node, vue)."
+          details: "Product development and maintenance."
 
 projects:
     title: "Projects"
@@ -119,7 +123,7 @@ skills:
     skills:
         - skill:
           name: "JavaScript"
-          level: "80%"
+          level: "75%"
         - skill:
           name: "Vue"
           level: "80%"
@@ -131,10 +135,10 @@ skills:
           level: "50%"
         - skill:
           name: "Git"
-          level: "50%"
+          level: "40%"
         - skill:
           name: "Linux"
-          level: "50%"
+          level: "30%"
 
 footer:
     text: Designed with <i class="fa fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a> for developers

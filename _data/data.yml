@@ -67,6 +67,13 @@ experiences:
           time: "1.02.2017 - 30.08.2018"
           company: "Inchkkiev, Kyiv"
           details: "Developing solutions for all mobile platforms as well as for most of the existing CLM systems."
+          
+    experiences:
+        - role: "Middle JavaScript Developer"
+          time: "15.09.2018 - present"
+          company: "Aurora Technologies LLC, Kyiv"
+          details: "Developing and maintenance product services (node, vue)."
+
 
 
 projects:
@@ -116,16 +123,22 @@ skills:
     skills:
         - skill:
           name: "JavaScript"
-          level: "65%"
+          level: "80%"
         - skill:
           name: "Vue"
-          level: "70%"
+          level: "80%"
         - skill:
           name: "HTML5 & CSS"
           level: "95%"
         - skill:
           name: "Node"
-          level: "30%"
+          level: "50%"
+        - skill:
+          name: "Git"
+          level: "50%"
+        - skill:
+          name: "Linux"
+          level: "50%"
 
 footer:
     text: Designed with <i class="fa fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a> for developers
